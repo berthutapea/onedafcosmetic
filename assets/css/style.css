@@ -409,7 +409,15 @@
     color: rgb(0, 0, 0);
     font-size: 1rem;
   }
-  
+
+  footer h1 a {
+    color: #000000;
+    display: inline-block;
+  }
+  footer h1 a:hover {
+    color: #DAA520;
+  }
+
   @keyframes pound {
     to {
       transform: scale(1.1);
