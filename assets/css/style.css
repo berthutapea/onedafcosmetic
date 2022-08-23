@@ -409,6 +409,9 @@
     color: rgb(0, 0, 0);
     font-size: 1rem;
   }
+    footer h1 a {
+    color: #000000;
+  }
   
   @keyframes pound {
     to {
