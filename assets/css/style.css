@@ -505,7 +505,7 @@ nav ul li a:hover {
 /*? Foooter Start */
 footer {
   width: 100%;
-  height: 50px;
+  height: 100%;
   background-color: #fcd3b0;
 }
 
@@ -523,18 +523,6 @@ footer h1 a {
 
 footer h1 a:hover {
   color: #DAA520;
-}
-
-@keyframes pound {
-  to {
-    transform: scale(1.1);
-  }
-}
-
-@media screen and (max-width: 968px) {
-  footer {
-    margin-bottom: 60px;
-  }
 }
 
 /*? Footer end */
