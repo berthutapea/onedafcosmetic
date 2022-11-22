@@ -505,8 +505,10 @@ nav ul li a:hover {
 /*? Foooter Start */
 footer {
   width: 100%;
-  height: 100%;
+  height: 50px;
+  padding: 0;
   background-color: #fcd3b0;
+
 }
 
 footer h1 {
