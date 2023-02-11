@@ -36,7 +36,3 @@ Total jam yang dibutuhkan untuk menyelesaikan kelas ini, mulai dari persiapan ke
 <div align="center">
   <img src="https://user-images.githubusercontent.com/95717485/188485715-3df87399-273d-4760-8c09-f67a7c908e22.png" alt="Dicoding">
 </div>
-
-<br>
-
-[^1]: [Show Credentials](https://www.dicoding.com/certificates/NVP71YRVRPR0)
